@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganeshsai1346&label=Profile%20views&color=0e75b6&style=flat" alt="Ganeshsai1346" /> </p>
+
 
 I am a front-end developer passionate about developing intuitive and user-friendly interfaces and apps. My tech stack includes HTML, CSS, JavaScript, TypeScript, Bootstrap, and React. I am a motivated and cooperative person who learns and adapts to new situations quickly. I've spent a lot of time applying what I've learned about web development to scenarios and applications found in the real world as a result of my studies.
 
