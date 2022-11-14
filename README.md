@@ -15,8 +15,7 @@ Technologies and tools I'm currently exploring and interested about.
 --Bootstrap
 --Netlify
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ganeshsai1346&show_icons=true&locale=en&layout=compact" alt="Ganeshsai1346" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ganeshsai1346&show_icons=true&locale=en&layout=compact" alt="Ganeshsai1346" /</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ganeshsai1346&show_icons=true&locale=en" alt="Ganeshsai1346" /></p>
 
