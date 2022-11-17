@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Sai Devarakonda</h1>
 <h3 align="center">A passionate front-end web developer from Germany</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/207046/screenshots/16085697/media/aa3c7e5b36599614576db84df93aa4f2.jpg?compress=1&resize=1000x750&vertical=top">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh1-dev" /> </p>
