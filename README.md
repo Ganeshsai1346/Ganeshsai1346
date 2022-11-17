@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Material UI, Figma and TypeScript**
+- 🌱 I’m currently learning **Material UI, Figma and Sass**
 
 - 👨‍💻 All of my projects are available at [https://ganesh-dev.netlify.app/](https://ganesh-dev.netlify.app/)
 
