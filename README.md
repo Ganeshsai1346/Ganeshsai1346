@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Material UI, Figma and Sass**
+- 🌱 I’m currently learning **Material UI, Figma and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://ganesh-dev.netlify.app/](https://ganesh-dev.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ganesh29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganesh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
